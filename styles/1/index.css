@@ -1,0 +1,13 @@
+.list {
+    width: 600px;
+    height: 514px;
+    border: 2px solid #ccc;
+    float: right;
+}
+.user,
+.pics {
+    width: 340px;
+    height: 250px;
+    border: 2px solid #ccc;
+    margin-bottom: 10px;
+}
